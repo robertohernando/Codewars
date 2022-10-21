@@ -1,2 +1,4 @@
 # Codewars
- My Codewar's katas
+My Codewar's katas
+
+Soluciones en español
